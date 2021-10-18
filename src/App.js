@@ -3,7 +3,7 @@ import "./App.css"
 function App() {
   return (
     <div className="App">
-      <h1>Det funke for faen!</h1>
+      <h1 style={{ fontSize: "150px" }}>HÆÆÆÆÆÆÆÆ?</h1>
     </div>
   )
 }
